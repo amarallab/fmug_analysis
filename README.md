@@ -2,7 +2,7 @@
 
 The code/data in this repository is for the accompanying manuscript for Find My Understudied Genes:
 
-( Information on preprint to go here )
+( pre-print forthcoming )
 
 If you are looking for the code for FMUG itself, go to this repo:
 
