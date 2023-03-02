@@ -2,7 +2,7 @@
 
 The code/data in this repository is for the accompanying manuscript for Find My Understudied Genes:
 
-( pre-print forthcoming )
+Reese Anthony Keith Richardson, Heliodoro Tejedor Navarro, Luis A. Nunes Amaral, Thomas Stoeger. Data-driven design of a tool to promote the investigation of understudied genes. bioRxiv 2023.02.28.530483; doi: [10.1101/2023.02.28.530483](https://doi.org/10.1101/2023.02.28.530483)
 
 If you are looking for the code for FMUG itself, go to this repo:
 
